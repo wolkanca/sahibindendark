@@ -1,0 +1,413 @@
+:root, html, body, .container {
+    background: #181818 !important;
+    background-color: #181818 !important;
+    color: #ccc !important;
+}
+
+#container > div, #container > div > div, select, textarea,
+.footer-container,
+.warning-text,
+.language-selection, .language-list,
+.classifiedDetailPhotos .classifiedDetailMegaVideo,
+.userContactInfo,
+#sticky-header, #sticky-header > div, #sticky-header > div > div,
+.searchResultsCat,
+.search-filter-section dl .collapseTitle,
+.search-filter-section, #searchResultsGallery td,
+.pageNavigator, .searchFooter,
+.infoSearchResults.fixed .infoSearchResults__floating-block,
+.model,
+.close-confirm, .btn-alternative,
+.my-account-box,
+aside nav > ul > li li a,
+.my-blocked-user-content,
+.my-preferences,
+html .detail-content,
+html .detail-content .row,
+#profileSearchResults .profileLinkage .searchResultCover,
+.footerContainer, .menuTitle, .menuItem .menuContent,
+.searchPage .box .boxHead,
+.categoriesMenu li:hover>div, .categoriesMenu li.hover,
+#wideSortingBarContainer,
+html .uiBoxContainer, html .uiBox, html .uiBox>div,
+html #realEstateIndexTab, html .user-info-module>div, 
+html .uiInlineBox, html .uiInlineBoxContent,
+html .classifiedUserContent, html.classifiedOtherBoxesContainer>div,
+html .paris-detail-warning-area,
+html #container .uiBox>div>div>div,
+html #classifiedDescription [style="color:rgb( 0 , 0 , 0 );background-color:rgb( 255 , 255 , 255 )"],
+html #classifiedDescription>div,
+html #classifiedDescription [style="color:rgb( 0 , 0 , 0 );font-size:14px;background-color:rgb( 255 , 255 , 255 )"],
+html section.classified-question-answer .container-cqa,
+html .left-side,
+html .classified-list-container,
+html #classifiedDescription p[style*="background-color: rgb(255, 255, 255);"], html #classifiedDescription p[style*="color: rgb(0, 0, 0);background-color: rgb(255, 255, 255);"],
+html #auto360Container #carInformation .tab-content,
+html #compareSticky,
+html .ui-autocomplete,
+html .contactInfo div.cover .numberCover,
+html .contactInfo div.cover .numberCover .whiteBorder {
+    background: #111 !important;
+    background-color: #111;
+    color: #eee !important;
+    border-color: #333 !important;
+    box-shadow: none !important;
+}
+
+
+html #classified-location.mini-tab-content.open,
+html #classified-location div,
+html .classifiedOtherDetails .classifiedDescription li .tipitip-trigger.info,
+html #ajaxLoading {
+    background-color: transparent !important;
+}
+
+html a,
+html .car-title {
+    color: #eee !important;
+}
+
+p, ul, ol, li,
+h1, h2, h3, h4, h5, h6, dt, dd,
+.chart-area span,
+#classifiedDescription [style="color: black;"],
+#classifiedDescription p, #classifiedDescription span,
+.userInfoList, .efes-label__content,
+html .car-panel, html .car-panel .empty-image,
+html .price-info .price-part,
+html .dl-group dd, .dl-group dt {
+    color: #ccc !important;
+}
+
+.chart-area rect,
+html #formFields dl dt, html .filterByKeyword p,
+html .container .field-wrapper .field.price {
+    fill: #333 !important;
+    color: #ccc !important
+}
+
+.searchResultsPage, #searchResultsTable,
+#searchResultsTable *, a span,
+.faceted-top-buttons li, 
+label, table,
+aside nav > ul > li > a,
+html #sticky-header .sticky-header-content .row .sticky-header-attribute,
+html span.comment-text,
+html #compareSticky *,
+html .tipitip ul li, html .tipitip  {
+    color: #bbb !important;
+    border-color: #333 !important;
+    box-shadow: none !important;
+}
+
+.searchResultsRowClass tr:nth-child(even),
+.error-page-container,
+#errorFooter,
+aside nav ul.parent,
+.price-history-summary,
+.classified-top-container,
+.notification-content,
+.process-container ul,
+.view-type-size-menu>li>ul, .sort-order-menu>li>ul,
+.left-menu-container .menu-tabs .menu-tab.active,
+html .equipment-specifications .technical-section p:nth-child(odd),
+html .sorting-menu ul a:hover,
+html .searched-keys li a,
+html .searched-keys li:last-child {
+    background: #222 !important;
+}
+
+.searchResultsRowClass tr:nth-child(odd),
+.my-account-tabs,
+aside nav > ul > li > a,
+footer:before,
+table,
+aside nav ul.parent>li.active>a,
+.history-table thead,
+.save-favorite-submenu.open, .sort-order-menu ul a:hover,
+.left-menu-container .menu-tabs .menu-tab,
+html #auto360Container #brandNewOperations .filters,
+html #auto360Container #brandNewOperations ul li,
+html #auto360Container #brandNewOperations .search-classifieds {
+    background: #111 !important;
+}
+
+.faceted-select, .span724,
+html div#map_canvas, html div#map_canvas a,
+html .surveyContainer {
+    color: #000 !important;
+}
+
+img, ul, tr, h2, h3, html td,
+.categoryWrapper:before,
+.classifiedInfoList li,
+.uiTabStyleOne a,
+.homepage .vitrin-list.popular-links li a, .homepage .interesting-ads.popular-links li a,
+nav li, dd, dl, .search-left #searchResultLeft-address dl,
+.searchGalleryBorder, .address-pane, .selectedList,
+.lightboxFooter, .infoSearchResults,
+.searchResultsRight .pageNavigator .pageNaviButtons li span, .searchResultsRight .pageNavigator .pageNaviButtons li a,
+#searchResultsTable thead td, .tabbed-list li a, .bc-tooltip,
+.sticky-search-button,
+.multiple-model-wrapper .multiple-model-selection,
+.multiple-model-wrapper .multiple-models .model .model-header,
+li a, .results-by-categories>ul .category-top-level strong,
+.results-by-categories>ul.multi-line>li.expanded ul,
+.navigation,
+.history-table thead th:first-child,
+.notification-content.open,
+.notification-content > li,
+.process-container ul,
+.section-new-list,.section-top,
+html .car-panel,
+html .car-url, html .info, html .search-in-store input, html .categories, html .classified-list li, html .info h1:before, html .without-logo h1:after, html .about h4:before, html .our-consultants h4:before, html .classified-list-header:before,
+html .classifiedOtherBoxes>div>div div,
+html .whiteBorder {
+    border-color: #333 !important;
+    box-shadow: none !important;
+}
+
+.tipitip, .tipitip *,
+.faceted-top-buttons li,
+.uiTabStyleOne a,
+.classifiedOtherDetails .classifiedDescription ul, .classifiedOtherDetails .classifiedDescription .classified-pair,
+dd, dl, .address-pane, #cboxContent,
+.jspPane li, .selectedList,
+.searchResultSorted, .classifiedBreadCrumbBackground,
+.faceted-save-search,
+.searchResultsRight .pageNavigator .pageNaviButtons li span, .searchResultsRight .pageNavigator .pageNaviButtons li a, .pageNaviButtons li,
+.other-classifieds[prostore='true'] .other-classified-box h4,
+#searchResultsTable thead td,
+.tabbed-list li a, .bc-tooltip,
+.multiple-model-wrapper .multiple-model-selection,
+.multiple-model-wrapper .multiple-models .model .model-header,
+#breadCrumbWideBg, #profileBreadCrumb, #topRow,
+.contactInfo div.cover, .contactInfo,
+html #auto360Container #brandNewPhotos,
+html .car-panel {
+    background: #111 !important;
+    background-color: #111 !important;
+}
+
+.view-type-menu .Limit20Passive, .sort-size-menu .Limit20Passive, .view-type-menu .Limit50Passive, .sort-size-menu .Limit50Passive,
+.view-type-size-menu>li>a, .sort-order-menu>li>a,
+.faceted-sort-buttons li a, .faceted-sort-buttons li span,
+.two-column,
+.navigation,
+.categories h4,
+html .footer-links .list-item,
+html #auto360Container #carInformation ul.tabs li,
+html .classifiedOtherBoxes>div>div div {
+    background: #111 !important;
+    background-color: #111 !important;
+    border-color: #333 !important;
+    box-shadow: none !important;
+}
+
+#search_left .enable-multiple-model-selection, .searchResultsCat .enable-multiple-model-selection,
+.multi-selection-label,
+footer, footer .warningText, .bc-item.active,
+.message-actions .sub-menu, .categoriesMenu li.active,
+html #container button:hover,
+html .highlighted,
+html .classified-list-item .thumbnail-img,
+html .option a:hover,
+html #auto360Container #carInformation ul.tabs li.current {
+    background-color: #222 !important;
+    border-color: #333 !important;
+}
+
+.footer-container:before,
+.section-list ul li a:hover,
+.results-by-categories>ul.multi-line>li,
+.results-by-categories>ul.multi-line>li.expanded ul,
+html label,
+.content,
+.message-actions .sub-menu li a:hover,
+.message-actions button,
+.info-box,
+html .guide-body-line-item,
+html .dictionary-letters-container,
+html .breadcrumb-360,
+html #container button:before,
+html .other-classified-box,
+html .sahibinden-dialog-wrapper>div,
+html .oc-selected-item,
+html .classifiedTechDetails .equipments li  {
+    background-color: #000 !important;
+    border-color: #333 !important;
+}
+
+.dialog-content > div,
+.classified-list table tr:hover,
+html #auto360Container .footer-links:before {
+    background: #333 !important;
+    background-color: #333 !important;
+}
+
+#searchResultsTable tbody tr.searchResultsPromoToplist td,
+.sticky-search-button, .currentFilters li, .currentFilters li a,
+.sorting-menu>li>a, .sorting-menu>li ul{
+    background: #000 !important;
+}
+
+html efes-my-favorite-classified-list div,
+html .comment-profile-image.no-photo,
+html .search-left #searchResultLeft-mapCTA a,
+html #mapBreadcrumb {
+    background: #000 !important;
+    border-color: #333 !important;
+}
+
+html .white-header .favorite-feature-link-group li,
+html .pageNaviButtons a, html .goToPage a, html .pageNaviButtons span, html .goToPage span {
+    background: #000;
+    border-color: #000 !important;
+    background-color: #000 !important;
+    background-image: none !important;
+}
+
+.classifiedDetailPhotos .classifiedDetailMegaVideo,
+.classifiedUserContent * {
+    text-shadow: none !important;
+}
+
+html .searchSuggestion.ui-autocomplete {
+    background: #000;
+    display: block !important;
+}
+.searchSuggestion.ui-menu .categorySeparator span, .searchSuggestion.ui-menu .storeSeparator span {
+    background: #333;
+}
+
+.searchSuggestion.ui-menu .categorySeparator, .searchSuggestion.ui-menu .storeSeparator,
+.classified-list table tr,
+.classified-list table th,
+html .classifiedOtherBoxes li {
+    border-color: #333;
+}
+
+.searchSuggestion.ui-menu .ui-menu-item a,
+html td[bgcolor="#fff"], html td[bgcolor="#fff"] table div,
+html .uiTabStyleOne .active a {
+    background: #000 !important;
+    color: #ccc !important;
+}
+
+.searchSuggestion.ui-menu .ui-menu-item a span:not(.suggestion-address),
+.classified-list table th, .classified-list table td,
+#classifiedDescription [style*="background-color:rgb( 255 , 255 , 0 )"],
+#classifiedDescription  [style*="color:rgb( 0 , 0 , 0 );"],
+html .slick-prev:before, html .slick-next:before {
+    color: #eee !important;
+}
+
+.add-classified-box {
+    background: #111;
+}
+
+.progress-postion.steps-sticky {
+    background: #181818;
+}
+
+html .preference-preview, html .add-post-rules,
+html .post-detailed-information ul,
+.classified-list table th,
+html #cboxWrapper, html #colorbox, html #cboxContent, html #cboxLoadedContent {
+    background-color: #000 !important;
+    border-color: #333 !important;
+}
+
+html #classifiedDescription span, html #classifiedDescription b,
+html #classifiedDescription font, html #classifiedDescription font>*, 
+html #classifiedDescription div[style="background-color:rgb( 255 , 255 , 255 )"] {
+    background-color: unset;
+}
+
+.info, .categories, .classified-list li,
+.pageNaviButtons a, .goToPage a, .pageNaviButtons span, .goToPage span {
+    background-color: #000 !important;
+    border-color: #333 !important;
+}
+
+html input,
+html #container button {
+    background-color: #000 !important;
+    border-color: #333 !important;
+    box-shadow: none !important;
+}
+
+html input:focus {
+    background-color: #fff !important;
+    background: #fff !important;
+    color: #111 !important;
+}
+
+html .search-in-store .search-submit {
+    background-color: #000 !important;
+    background-size: 2rem 8rem !important;
+    background-position: 4px -4.2rem!important;
+}
+
+
+html .post-add-details dl dd .text-angular-classified {
+    background-color: #111;
+}
+
+.add-classified-box:before, .post-secure-trade .infoAlert:after,
+    html #container *:not(li):before, html #container *:not(li):after, div,
+    html .pageNavigator, .searchResultsRight .pageNavigator,
+    html a.show-all {
+    border-color: #333!important;
+}
+
+.safety-warnnings-box,
+.opening,
+.white-shadow,
+.paris-detail-warning-area::before {
+    display: none !important;
+}
+
+#sticky-header .sticky-header-attribute:before,
+.faceted-select,
+.pageNaviButtons a:hover, .pageNaviButtons span.currentPage,
+.searchResultsIgnored:after {
+    filter: invert(1);
+}
+
+div#mapSearchMain .walkthrough-container,
+html #ajaxLoading {
+    visibility: hidden !important;
+    display: none;
+}
+
+
+html .classifiedTechDetails tbody tr  {
+    background: #333;
+    color: #eee;
+}
+
+html .classifiedTechDetails tbody tr:nth-child(even) {
+    background: #000
+}
+
+#price-history-dropdown,
+#price-history-dropdown .section-top,
+#price-history-dropdown .price-general-info-wrapper,
+#price-history-dropdown #table-wrapper,
+#price-history-dropdown ul,
+.menu .menu-item .dropdown-menu {
+    background-color: #111 !important;
+    border-color: #333!important;
+}
+
+div>ul>li.item,
+html .dropdown-menu li,
+html .messages-box li {
+    background-color: transparent !important;
+    border-color: #333!important;
+}
+
+html .uiBox div {
+    scrollbar-width: thin;
+}
